@@ -1,3 +1,4 @@
-<img width="664" height="753" alt="image" src="https://github.com/user-attachments/assets/532349ae-3799-4be7-beed-bf711bea9387" />
+<img width="475" height="669" alt="image" src="https://github.com/user-attachments/assets/65090925-9041-4c38-aa11-d6609fa0fec3" />
 
-A skull keychain that operates on a litium battery and uses a LED light to light up. Was made with TinkerCAD.
+
+A skull keychain that operates on a litium battery and uses a LED light to light up. When printed on a 3d printer, the components inside could be shorter/smaller. Was made with TinkerCAD.
